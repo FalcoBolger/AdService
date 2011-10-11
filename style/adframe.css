@@ -1,0 +1,20 @@
+/* 
+    Document   : adframe
+    Created on : 20-sep-2011, 15:05:08
+    Author     : victor
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+
+root { 
+    display: block;
+}
+
+.ad {
+    font: 10px arial,sans-serif
+}
